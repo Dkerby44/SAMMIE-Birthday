@@ -1,8 +1,8 @@
 body {
 	/*background-color: #f170a6;	*/
-	background-color: grey;
-	background-image: url(Sam1.png);
-	background-size: auto;
+	background-color: black;
+	background-image: url(Sam.png);
+	background-size: contain;
 	-webkit-transition:background-color linear 5s;
 	-moz-transition:background-color linear 5s;
 	-o-transition:background-color linear 5s;
